@@ -16,7 +16,7 @@ A1: Track to track with specific gaps
 B1: Track and gap to copper flood.
 
 If using an inkjet printer, you will most likely find that the tracks are slightly wider when printed. 
-You will also obtain better tracks by printing two printouts and placing one on top of the other to increase the density and reduce the amount of UV light which reaches the PCB. 
+When etching, you will also obtain better tracks by printing two printouts and placing one on top of the other to increase the density and reduce the amount of UV light which reaches the PCB. 
 
 
 MVW
